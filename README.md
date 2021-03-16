@@ -6,7 +6,7 @@ This is an library to easy search Brazilian zip-codes (cep) in php
 
 ## Installation
 
-`composer install afranca1/cep-locator`
+`composer require afranca1/cep-locator`
 
 ## Usage
 
