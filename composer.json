@@ -1,0 +1,22 @@
+{
+  "name": "afranca1/cep-locator",
+  "description": "Busca e localiza ceps online",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "AlanJhonatan",
+      "email": "alan.amorim.franca@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.2.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "Search": "src/"
+    },
+    "psr-4": {
+      "afranca1\\CepLocator\\": "src/"
+    }
+  }
+}
